@@ -11,16 +11,16 @@ This repository showcases a unique AI architecture developed through **Phase Res
 | **4. Neural Canvas** | ![Visual for Stage 4](visuals/neural_canvas_v1.png) | Emergent 2D spatial patterns, showing collective 'thought'. |
 | **5. Sculpting Memory** | ![Visual for Stage 5](visuals/neural_brush_v2.png) | Imprinting a 'brushstroke' pattern onto the neural canvas. |
 | **6. Pruning Sculpture** | ![Visual for Stage 6](visuals/pruned_sculpture_v1.png) | Pruning away weak connections to reveal the 'sculpted' neural architecture, representing the learned memory. |
-| **7. Temporal Prediction** | ![Visual for Stage 7](visuals/temporal_prediction_v1.png) | Predicting the trajectory of a moving stimulus. |
-| **8. Predictive Anticipation** | ![Visual for Stage 8](visuals/predictive_anticipation_v1.png) | A second layer 'anticipates' sensory input, generating predictions. |
-| **9. Prediction Error** | ![Visual for Stage 9](visuals/prediction_error_v1.png) | Detecting and responding to unexpected sensory events. |
-| **10. Active Inference (Motor Tracking)** | ![Visual for Stage 10](visuals/motor_tracking_v1.png) | The AI actively moves its 'body' to track and minimize prediction error. |
-| **11. Selective Attention** | ![Visual for Stage 11](visuals/selective_attention_v1.png) | Focusing on one stimulus amidst competing inputs. |
-| **12. Dopamine Reward** | ![Visual for Stage 12](visuals/dopamine_reward_v1.png) | Learning through reward signals to reinforce successful behaviors. |
-| **13. Metabolic Constraint** | ![Visual for Stage 13](visuals/metabolic_constraint_v1.png) | Simulating energy limitations and their impact on neural activity. |
+| **7. Temporal Prediction** | *(Visual Missing)* | Predicting the trajectory of a moving stimulus. |
+| **8. Predictive Anticipation** | *(Visual Missing)* | A second layer 'anticipates' sensory input, generating predictions. |
+| **9. Prediction Error** | *(Visual Missing)* | Detecting and responding to unexpected sensory events. |
+| **10. Active Inference (Motor Tracking)** | *(Visual Missing)* | The AI actively moves its 'body' to track and minimize prediction error. |
+| **11. Selective Attention** | *(Visual Missing)* | Focusing on one stimulus amidst competing inputs. |
+| **12. Dopamine Reward** | *(Visual Missing)* | Learning through reward signals to reinforce successful behaviors. |
+| **13. Metabolic Constraint** | *(Visual Missing)* | Simulating energy limitations and their impact on neural activity. |
 
 ## Installation & Usage
 No special installation, just run the Colab notebook!
 
-## License & Usage Warning
-This repository contains experimental code for a research project. While the concepts are open-source and encouraged for study, the implementation is highly specific to the Colab environment and project structure. Direct copying and execution of this code without deep understanding and adaptation to your environment is strongly discouraged and will likely lead to errors. Please use as inspiration and educational material, not as a plug-and-play solution.
+## License
+For important usage warnings, please refer to the [LICENSE.md](LICENSE.md) file.
