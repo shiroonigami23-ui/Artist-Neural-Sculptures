@@ -23,4 +23,4 @@ This repository showcases a unique AI architecture developed through **Phase Res
 No special installation, just run the Colab notebook!
 
 ## License
-MIT License - Feel free to explore and build upon this unique AI concept!
+For important usage warnings, please refer to the [LICENSE.md](LICENSE.md) file.
