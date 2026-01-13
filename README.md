@@ -11,6 +11,8 @@ This repository showcases a unique AI architecture developed through **Phase Res
 | **4. Neural Canvas** | ![Canvas](visuals/neural_canvas_v1.png) | Emergent 2D spatial patterns, showing collective 'thought'. |
 | **5. Sculpting Memory** | ![Brush](visuals/neural_brush_v2.png) | Imprinting a 'brushstroke' pattern onto the neural canvas. |
 | **6. Pruning Sculpture** | ![Pruned](visuals/pruned_sculpture_v1.png) | Pruning away weak connections to reveal the 'sculpted' neural architecture, representing the learned memory. |
+| **7. Reinforcement** | ![Dopamine](visuals/dopamine_reward_v1.png) | Reward-modulated plasticity (Dopamine). |
+| **8. Metabolism** | ![Metabolism](visuals/metabolic_constraint_v1.png) | System collapse under high metabolic cost. |
 
 ## Installation & Usage
 No special installation, just run the Colab notebook!
