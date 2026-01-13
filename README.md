@@ -18,3 +18,9 @@ This repository showcases a unique AI architecture developed through **Phase Res
 | **11. Selective Attention** | *(Visual Missing)* | Focusing on one stimulus amidst competing inputs. |
 | **12. Dopamine Reward** | *(Visual Missing)* | Learning through reward signals to reinforce successful behaviors. |
 | **13. Metabolic Constraint** | *(Visual Missing)* | Simulating energy limitations and their impact on neural activity. |
+
+## Installation & Usage
+No special installation, just run the Colab notebook!
+
+## License
+MIT License - Feel free to explore and build upon this unique AI concept!
